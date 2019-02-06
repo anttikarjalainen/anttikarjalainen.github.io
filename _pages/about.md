@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Infoa!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,12 +18,18 @@ Sovelluksen tekemisessä käytimme mm seuraavia teknologioita: Angular(Frontend)
 Kieliä mitä käytimme: Javascript, Typescript, Html, Css
 
 
+
+
+======
+
+Tammikuussa 2019 osallistuimme LUT Codecamp kurssille. Kurssilla oli tavoitteena crash-course tyyppisesti opiskella päivässä React JS Kirjasto ja tehdä sen perusteella harkka reilussa viikossa.
+Valitsimme työksi käyttöliittymän rakentamisen TMDB:n API:n ympärille. Alempana kuvia.
 ======
 
 
-Kuvia Note - Projektista
+Kuvia harjoitustöistäni
 
-Sovellukseen kirjautuminen
+Note - Sovellukseen kirjautuminen
 ![Editing a markdown file for a talk](/images/1.jpg)
 
 ------
@@ -33,13 +39,13 @@ Nuotti-lista näkymä
 
 ------
 
-Note - Lisää nuotti
-![Editing a markdown file for a talk](/images/3.jpg)
+MovieDbApp - perusnäkymä
+![Editing a markdown file for a talk](/images/capture1.jpg)
 
 ------
 
-Note - Poista nuotti
-![Editing a markdown file for a talk](/images/5.jpg)
+MovieDbApp - sarjan hakeminen ja Sidenav
+![Editing a markdown file for a talk](/images/raporttiin2.jpg)
 
 
 
