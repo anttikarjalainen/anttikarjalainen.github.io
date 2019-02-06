@@ -21,14 +21,14 @@ Kieliä mitä käytimme: Javascript, Typescript, Html, Css
 ======
 
 
-Kuvia projekteista:
+Kuvia Note - Projektista
 
-Note-sovelluksen kirjautuminen
+Sovellukseen kirjautuminen
 ![Editing a markdown file for a talk](/images/1.jpg)
 
 ------
 
-Note - list näkymä
+Nuotti-lista näkymä
 ![Editing a markdown file for a talk](/images/2.jpg)
 
 ------
@@ -36,6 +36,10 @@ Note - list näkymä
 Note - Lisää nuotti
 ![Editing a markdown file for a talk](/images/3.jpg)
 
+------
+
+Note - Poista nuotti
+![Editing a markdown file for a talk](/images/5.jpg)
 
 
 
