@@ -17,10 +17,15 @@ Olin kesällä 2018 mukana tekemässä Note - sovellusta Lappeenrannan Big Bandi
 Sovelluksen tekemisessä käytimme mm seuraavia teknologioita: Angular(Frontend), MS Visual Studio (BackEnd), Microsoft Sql Server Management Studio(tietokanta), nodejs, Azure portal, Github ja Jira.
 Kieliä mitä käytimme: Javascript, Typescript, Html, Css
 
+
 ======
 
 
 Kuvia projekteista:
+
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
+
 ------
 
 
