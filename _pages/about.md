@@ -23,10 +23,19 @@ Kieliä mitä käytimme: Javascript, Typescript, Html, Css
 
 Kuvia projekteista:
 
-Example: editing a markdown file for a talk
+Note-sovelluksen kirjautuminen
 ![Editing a markdown file for a talk](/images/1.jpg)
 
 ------
+
+Note - list näkymä
+![Editing a markdown file for a talk](/images/2.jpg)
+
+------
+
+Note - Lisää nuotti
+![Editing a markdown file for a talk](/images/3.jpg)
+
 
 
 
