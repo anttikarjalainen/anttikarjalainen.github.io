@@ -40,12 +40,12 @@ Nuotti-lista näkymä
 ------
 
 MovieDbApp - perusnäkymä
-![Editing a markdown file for a talk](/images/capture1.jpg)
+![Editing a markdown file for a talk](/images/capture1.png)
 
 ------
 
 MovieDbApp - sarjan hakeminen ja Sidenav
-![Editing a markdown file for a talk](/images/raporttiin2.jpg)
+![Editing a markdown file for a talk](/images/raporttiin2.png)
 
 
 
