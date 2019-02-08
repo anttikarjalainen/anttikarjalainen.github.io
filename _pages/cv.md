@@ -18,7 +18,7 @@ Koulutus
 
 
 
-Work experience
+Työkokemus
 ======
 * Kesä 2018: Ekoodi Kesäkoulu / Note - sovelluksen toteutus projektityönä
   * Angular / Javascript perusteet
