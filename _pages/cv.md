@@ -22,6 +22,10 @@ Koulutus
 
 Työkokemus
 ======
+* Syksy 2018 --: Opettajan sijanen / Kesämäen ala-aste(jatkuu, olen kirjoilla sijaisrekisterissä)
+  * Luokanopettajan sijaisena toimiminen
+
+
 * Kesä 2018: Ekoodi Kesäkoulu / Note - sovelluksen toteutus projektityönä
   * Angular / Javascript perusteet
   * Full-stack toteutus
