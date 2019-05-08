@@ -11,8 +11,10 @@ redirect_from:
 
 Koulutus
 ======
-* 8/2012 - 12/2015 Ylioppilas, Mikkelin Lukio
+* 31.8.2017 --  Saimaan ammattikorkeakoulu, Digitradenomi (jatkuu)
 * 4.6.2018 - 6.6.2018 Angular PWA koulutus, Kouluttaja GoFore Oy
+* 8/2012 - 12/2015 Ylioppilas, Mikkelin Lukio
+
 
 
 
@@ -31,7 +33,7 @@ Työkokemus
   * Välittäjien auttaminen
 
 
-* Kesä 2016: Vuokravälittäjä / SKV Kiinteistövälitys Oy
+* Kesä 2015: Vuokravälittäjä / SKV Kiinteistövälitys Oy
   * Toimistotyöt
   * Siivous
   * Välittäjien auttaminen
