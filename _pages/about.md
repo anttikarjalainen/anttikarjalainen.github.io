@@ -12,6 +12,12 @@ Hei! Olen 22-vuotias ohjelmoinnin opiskelija. Opiskelen nyt toista vuotta Saimaa
 Tavoitteenani on oppia ja työskennellä ohjelmistokehitystä nykyaikaisilla menetelmillä. 
 
 Referenssit:
+
+
+======
+Keväällä 2019 teimme projektityönä sovellusta Lappeenrannan kaupungille. Olin vetämässä projektitiimiä, ja se sujui hyvin. Sovelluksen kehitys jatkuu vielä kesällä 2019.
+Sovellus on full-stack-sovellus, ja siihen käytettiin Angularia(Front-end), MS Visual Studiota(Back-end/ API), sekä tietokannan hallintaan Microsoft Sql Server Management Studiota.
+
 ======
 Olin kesällä 2018 mukana tekemässä Note - sovellusta Lappeenrannan Big Bandille. Teimme sovelluksen angular-applikaationa. 
 Sovelluksen tekemisessä käytimme mm seuraavia teknologioita: Angular(Frontend), MS Visual Studio (BackEnd), Microsoft Sql Server Management Studio(tietokanta), nodejs, Azure portal, Github ja Jira.
