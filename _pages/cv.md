@@ -22,7 +22,7 @@ Koulutus
 
 Työkokemus
 ======
-* Syksy 2018 --: Opettajan sijanen / Kesämäen ala-aste(jatkuu, olen kirjoilla sijaisrekisterissä)
+* Syksy 2018 -->  Opettajan sijanen / Kesämäen ala-aste(jatkuu, olen kirjoilla sijaisrekisterissä)
   * Luokanopettajan sijaisena toimiminen
 
 
