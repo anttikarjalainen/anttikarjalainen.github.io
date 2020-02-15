@@ -8,10 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hei! Olen 22-vuotias ohjelmoinnin opiskelija. Opiskelen nyt toista vuotta Saimaan ammattikorkeakoulussa. Koulutusohjelmani on liiketalous, mutta opintoni koostuu pääosin ohjelmoinnista.
+Hei! Olen 23-vuotias ohjelmoinnin opiskelija. Opiskelen nyt kolmatta vuotta Saimaan ammattikorkeakoulussa. Koulutusohjelmani on liiketalous, mutta opintoni koostuu pääosin ohjelmoinnista.
 Tavoitteenani on oppia ja työskennellä ohjelmistokehitystä nykyaikaisilla menetelmillä. 
 
 Referenssit:
+
+
+======
+
+Kesällä 2019 pääsin Lappeenrannan-Lahden yliopistolle töihin kehittämään graafista datankeruutyökalua. Teknisen toteutuksen olen tehnyt kokonaan itse (Angular, .NET, Microsoft Sql server).
+Sovellus koostuu siis Angularilla tehdystä clientistä joka pyörii Azuressa, ja siihen on rakennettu oma API vastaamaan back-end toteutuksesta.
+Sovelluksen kehitys jatkuu vielä keväällä 2020, ja teen siitä opinnäytetyön.
 
 
 ======

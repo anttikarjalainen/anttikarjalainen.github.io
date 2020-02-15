@@ -22,6 +22,12 @@ Koulutus
 
 Työkokemus
 ======
+
+* Kesäkuu 2019 --> nykyhetki:  Graafisen työkalun kehittäminen / Lappeenrannan-Lahden teknillinen yliopisto
+  * Full-stack-sovellus kehitetty itsenäisesti (.NET, Angular, SQL Database)
+ 
+
+
 * Syksy 2018 -->  Opettajan sijainen / Kesämäen ala-aste(jatkuu, olen kirjoilla sijaisrekisterissä)
   * Luokanopettajan sijaisena toimiminen
 
