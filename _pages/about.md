@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hei! Olen 23-vuotias ohjelmoinnin opiskelija. Opiskelen nyt kolmatta vuotta Saimaan ammattikorkeakoulussa. Koulutusohjelmani on liiketalous, mutta opintoni koostuu pääosin ohjelmoinnista.
-Tavoitteenani on oppia ja työskennellä ohjelmistokehitystä nykyaikaisilla menetelmillä. 
+Hei! Olen 24-vuotias ohjelmoinnin opiskelija. Opiskelen nyt neljättä vuotta LAB-ammattikorkeakoulussa(ex. Saimaan ammattikorkeakoulu). Koulutusohjelmani on liiketalous, mutta opintoni koostuu pääosin ohjelmoinnista.
+Tavoitteenani on oppia ohjelmistokehitystä nykyaikaisilla menetelmillä.
 
 Referenssit:
 
@@ -17,8 +17,8 @@ Referenssit:
 ======
 
 Kesällä 2019 pääsin Lappeenrannan-Lahden yliopistolle töihin kehittämään graafista datankeruutyökalua. Teknisen toteutuksen olen tehnyt kokonaan itse (Angular, .NET, Microsoft Sql server).
-Sovellus koostuu siis Angularilla tehdystä clientistä joka pyörii Azuressa, ja siihen on rakennettu oma API vastaamaan back-end toteutuksesta.
-Sovelluksen kehitys jatkuu vielä keväällä 2020, ja teen siitä opinnäytetyön.
+Sovellus koostuu siis Angularilla tehdystä clientistä, ja siihen on rakennettu oma API(.NET) vastaamaan back-end toteutuksesta.
+Sovelluksen kehitys jatkuu vielä syksyllä 2020, ja teen siitä opinnäytetyön.
 
 
 ======
@@ -54,12 +54,12 @@ Nuotti-lista näkymä
 
 ------
 
-MovieDbApp - perusnäkymä
+MovieDbApp - Perusnäkymä
 ![Editing a markdown file for a talk](/images/capture1.png)
 
 ------
 
-MovieDbApp - sarjan hakeminen ja Sidenav
+MovieDbApp - sarjan hakeminen
 ![Editing a markdown file for a talk](/images/raporttiin2.png)
 
 

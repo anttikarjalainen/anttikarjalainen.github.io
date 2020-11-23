@@ -11,7 +11,7 @@ redirect_from:
 
 Koulutus
 ======
-* 31.8.2017 --  Saimaan ammattikorkeakoulu, Digitradenomi (jatkuu)
+* 31.8.2017 --  Saimaan ammattikorkeakoulu, Digitradenomi (jatkuu, valmistuminen 31.12.2020)
 * 4.6.2018 - 6.6.2018 Angular PWA koulutus, Kouluttaja GoFore Oy
 * 8/2012 - 12/2015 Ylioppilas, Mikkelin Lukio
 
