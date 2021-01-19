@@ -11,7 +11,7 @@ redirect_from:
 
 Koulutus
 ======
-* 31.8.2017 --  Saimaan ammattikorkeakoulu, Digitradenomi (jatkuu, valmistuminen 31.12.2020)
+* 31.8.2017 --  Saimaan ammattikorkeakoulu, Digitradenomi (Valmistuttu 31.12.2020)
 * 4.6.2018 - 6.6.2018 Angular PWA koulutus, Kouluttaja GoFore Oy
 * 8/2012 - 12/2015 Ylioppilas, Mikkelin Lukio
 
@@ -23,7 +23,7 @@ Koulutus
 Työkokemus
 ======
 
-* Kesäkuu 2019 --> nykyhetki:  Graafisen työkalun kehittäminen / Lappeenrannan-Lahden teknillinen yliopisto
+* 5.6.2019 --> 31.10.2020:  Graafisen työkalun kehittäminen / Lappeenrannan-Lahden teknillinen yliopisto
   * Full-stack-sovellus kehitetty itsenäisesti (.NET, Angular, SQL Database)
  
 

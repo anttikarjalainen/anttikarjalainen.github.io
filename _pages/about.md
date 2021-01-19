@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hei! Olen 24-vuotias ohjelmoinnin opiskelija. Opiskelen nyt neljättä vuotta LAB-ammattikorkeakoulussa(ex. Saimaan ammattikorkeakoulu). Koulutusohjelmani on liiketalous, mutta opintoni koostuu pääosin ohjelmoinnista.
-Tavoitteenani on oppia ohjelmistokehitystä nykyaikaisilla menetelmillä.
+Hei! Olen 24-vuotias ohjelmoinnin opiskelija. Valmistuin LAB-ammattikorkeakoulusta 31.12.2020 tutkintonimikkeellä Tradenomi(modernit web-teknologiat). Koulutusohjelmani on liiketalous, mutta opintoni koostuivat pääosin ohjelmoinnista.
+Tavoitteenani on oppia ohjelmistokehitystä nykyaikaisilla menetelmillä, ja päästä töihin ohjelmistokehityksen pariin.
 
 Referenssit:
 
@@ -18,7 +18,7 @@ Referenssit:
 
 Kesällä 2019 pääsin Lappeenrannan-Lahden yliopistolle töihin kehittämään graafista datankeruutyökalua. Teknisen toteutuksen olen tehnyt kokonaan itse (Angular, .NET, Microsoft Sql server).
 Sovellus koostuu siis Angularilla tehdystä clientistä, ja siihen on rakennettu oma API(.NET) vastaamaan back-end toteutuksesta.
-Sovelluksen kehitys jatkuu vielä syksyllä 2020, ja teen siitä opinnäytetyön.
+Sovelluksen kehitys jatkui vielä syksyllä 2020, ja tein siitä opinnäytetyön.
 
 
 ======
