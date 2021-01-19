@@ -23,7 +23,7 @@ Koulutus
 Työkokemus
 ======
 
-* 5.6.2019 --> 31.10.2020:  Graafisen työkalun kehittäminen / Lappeenrannan-Lahden teknillinen yliopisto
+* 5.6.2019 --> 31.11.2020:  Graafisen työkalun kehittäminen / Lappeenrannan-Lahden teknillinen yliopisto
   * Full-stack-sovellus kehitetty itsenäisesti (.NET, Angular, SQL Database)
  
 
